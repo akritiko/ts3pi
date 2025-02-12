@@ -69,7 +69,7 @@ To make changes or contribute:
    git checkout -b feature-branch-name
    ```
 3. Make your changes.
-4. Test the extension locally by following the [installation steps](#installation).
+4. Test the extension locally by following the installation steps.
 5. Commit and push:
    ```bash
    git commit -m "Add new feature X"
@@ -86,13 +86,13 @@ To make changes or contribute:
 
 ## 📜 License
 This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
+See the [[LICENSE](LICENSE)](https://github.com/akritiko/ts3pi?tab=MIT-1-ov-file#readme) file for details.
 
 ---
 
 ## 📧 Contact
 For questions, suggestions, or bug reports, feel free to open an **issue** on GitHub or contact:  
-📩 **[YOUR_EMAIL_OR_GITHUB_PROFILE]**  
+📩 **akritiko@gmail.com**  
 
 ---
 ✨ **Happy Browsing with ts3pi!** 🚀
