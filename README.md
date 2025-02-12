@@ -1,4 +1,4 @@
-# ts3pi - URL Recorder Chrome Extension
+# ts3pi - put the WWW, in your ~~pocket~~ ts3pi!
 
 **ts3pi** is a lightweight Google Chrome (and Chromium-based browsers) extension that helps you record, categorize, and manage web pages you visit. Easily export your saved URLs in **CSV, JSON, and HTML** formats or import a list from a JSON file.
 
