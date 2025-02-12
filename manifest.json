@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "ts3pi",
+  "version": "1.0",
+  "description": "Record all your favorite bookmarks from your browser and export them easily on CSV, JSON and HTML",
+  "author": "Apostolos Kritikos",
+  "permissions": [
+    "scripting",
+    "activeTab",
+    "storage",
+    "tabs",
+    "downloads"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
