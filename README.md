@@ -40,10 +40,17 @@ cd ts3pi
 3. A popup will prompt you for a **Custom Category** and **Notes** (optional).
 4. Your entry will be saved.
 
+![Browser Extension's Pop up](/images/popup.png "Browser Extension's Pop up").
+
+![Metadata dialogues](/images/categories.png "Metadata dialogues").
+
+
 ### **Opening and Managing the List**
 1. Click **"Open List"** to view your saved entries.
 2. Use **filters** to search by Author or Custom Category.
 3. Click **column headers** to sort entries.
+
+![Bookmarks page](/images/bookmarks.png "Bookmarks page").
 
 ### **Exporting Data**
 - **CSV**: Download a comma-separated values file.
